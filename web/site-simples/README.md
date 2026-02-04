@@ -1,19 +1,30 @@
 # Simple Website Project
 
-This project is designed for beginners to practice **HTML and CSS**.
+This is a **beginner-friendly web project** created as part of the Dev Starter Kit.
 
-## 🎯 Goal
-- Learn basic HTML structure
-- Practice CSS styling
-- Understand how a simple website works
+## 🎯 Project Goal
+- Learn the basics of **HTML structure**
+- Practice **CSS styling**
+- Add **basic JavaScript interactivity**
+- Understand how to organize files professionally
 
-## 📁 Files
-- `index.html` – main HTML file
-- `style.css` – CSS styles
+## 📂 Project Structure
 
-## 🚀 How to use
-1. Open `index.html` in a browser  
-2. Modify the code  
-3. Experiment with styles and layout  
+## 🚀 How to Use
+1. Open `index.html` in a web browser
+2. Explore the structure and CSS styles
+3. Click the header to see the JavaScript interaction
+4. Modify the files and experiment to learn
 
-This project is part of the **Dev Starter Kit**.
+## 💡 Learning Outcomes
+- Understanding semantic HTML elements: `<header>`, `<main>`, `<section>`, `<footer>`  
+- Applying CSS for layout, spacing, and color  
+- Linking and using external JavaScript  
+- Creating small, interactive web components
+
+## 🤝 Contribution
+Contributions are welcome ⭐  
+If you have suggestions or improvements, feel free to open issues or pull requests.
+
+## 📜 License
+MIT License
