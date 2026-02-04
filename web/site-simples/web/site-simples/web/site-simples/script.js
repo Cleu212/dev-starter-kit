@@ -1,4 +1,4 @@
-// Simple JavaScript interaction
+ // Simple JavaScript interaction
 document.addEventListener("DOMContentLoaded", () => {
   const header = document.querySelector(".header");
 
