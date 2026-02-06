@@ -12,3 +12,9 @@ A basic calculator that can:
 ### ▶ How to Run
 ```bash
 python calculator.py
+## 🔐 Password Generator
+Generates a random secure password based on user-defined length.
+
+Run:
+```bash
+python password_generator.py
